@@ -1,9 +1,9 @@
 ---  
 title: ウェブサイトの新しいデザイン(jekyll-theme-chirpy)をテスト  
 author: cachalot792  
-date: 2024-01-22 10:22:00 +0900  
-categories: [ブログ, プログラミング]  
-tags: [Jekyll, Github Pages, Web, Chirpy]  
+date: 2024-01-22 11:34:00 +0900  
+categories: [プログラミング]  
+tags: [jekyll, githubpages, web, chirpy]  
 ---  
   
 新しいデザインでの初めての記事です。  
