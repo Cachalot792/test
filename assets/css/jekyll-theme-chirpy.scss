@@ -4,23 +4,7 @@
 @import 'main';
 
 /* append your custom style below */
-kbd {
-  font-family: $font-family-base;
-}
-
-#panel-wrapper {
-  font-family: $font-family-base;
-}
-
-.site-title {
-  font-family: $font-family-base;
-}
-
-#topbar-title {
-  font-family: $font-family-base;
-}
-
-.toast-body {
+body {
   font-family: $font-family-base;
 }
 $font-family-base: "Meiryo UI" , "Meiryo" , "Yu Gothic UI" , "Hiragino Sans" , sans-serif !default;
