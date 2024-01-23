@@ -22,13 +22,13 @@ Markdownの良さはそういうものを書かなくて済むところだと思
 
 まず、サイトのGemfileに以下のコードを追加します。  
 
-```
+```Ruby
 gem 'jekyll-target-blank'
 ```
 
 そして、_config.ymlに以下のコードを追加します。  
 
-```
+```YAML
 plugins:
   - jekyll-target-blank
 ```
