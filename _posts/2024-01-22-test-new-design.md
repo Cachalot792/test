@@ -14,7 +14,7 @@ tags: [jekyll, githubpages, web, chirpy]
 
 ## 採用したデザイン  
 
-今回は[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/)というテンプレートを採用しました。  
+今回は[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/){:target="_blank"}というテンプレートを採用しました。  
 
 ## 所感  
 
