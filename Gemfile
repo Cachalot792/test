@@ -23,4 +23,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Set external links to open in a new tab
-gem "jekyll-target-blank"
+gem 'jekyll-target-blank'
