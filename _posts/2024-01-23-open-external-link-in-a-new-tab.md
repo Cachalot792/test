@@ -25,6 +25,7 @@ Markdownの良さはそういうものを書かなくて済むところだと思
 ```ruby  
 gem 'jekyll-target-blank'
 ```
+{: file='Gemfile'}  
 
 そして、_config.ymlに以下のコードを追加します。  
 
@@ -32,6 +33,8 @@ gem 'jekyll-target-blank'
 plugins:
   - jekyll-target-blank
 ```
+{: file='_config.yml'}  
+
 
 たったこれだけです。超かんたん。  
 
